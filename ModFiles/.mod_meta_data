@@ -1,0 +1,11 @@
+{
+    "compatibility_version": 2,
+        "display_version": "1.0.0",
+	"display_name": "Advent Blue PD",
+    "short_description": "Changes Advent PD weapons green effects to blue.",
+    "long_description": "Repository: https://github.com/fredomain/AdventBluePD",
+    "logos": {
+        "small_logo": "small_logo.png",
+        "large_logo": "large_logo.png"
+    }
+}
